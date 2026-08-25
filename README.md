@@ -1,1 +1,1 @@
-
+Quantitative finance project calibrating an arbitrage-free SSVI Implied Volatility Surface. Computes primary option sensitivities (Delta, Gamma, Vega, Theta) and assesses portfolio risk under stress scenarios. Evaluates tail risk metrics (VaR and CVaR) by comparing full revaluation against first and second-order Taylor approximations.
